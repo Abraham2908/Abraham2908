@@ -1,9 +1,10 @@
 <h1>Hi, I'm Abraham! <br/></h1>
-<!--
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Azure Sentinel (SIEM)</b>
-  - [Sentinel (SIEM)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Sentinel (SIEM)](https://github.com/Abraham2908/AzureSentinelLab)
+<!--
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 -->
