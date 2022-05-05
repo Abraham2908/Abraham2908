@@ -4,6 +4,8 @@
 
 - <b>Azure Sentinel (SIEM)</b>
   - [Sentinel (SIEM)](https://github.com/Abraham2908/AzureSentinelLab)
+- <b>File Integrity Monitoring (FIM)</b>
+  - [FIM](https://github.com/Abraham2908/File-Integrity-Monitor)
 <!--
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
