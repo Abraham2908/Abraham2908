@@ -1,48 +1,66 @@
-<h1>Hi, I'm Abraham! <br/></h1>
+# Hey there! 👋 I'm Abraham...
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+## 🛡️ Cybersecurity Warrior & Tech Innovator 
 
-- <b>Azure Sentinel (SIEM)</b>
-  - [Sentinel (SIEM)](https://github.com/Abraham2908/AzureSentinelLab)
-- <b>File Integrity Monitoring (FIM)</b>
-  - [FIM](https://github.com/Abraham2908/File-Integrity-Monitor)
-<!--
-- <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
--->
-<!--
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
--->
+Bridging the gap between development and security, one line of code at a time! 💻🔒 I'm a Senior Offensive Security Engineer with a passion for turning potential vulnerabilities into robust digital fortresses.
 
-<h2> 🤳 Connect with me:</h2>
+### 🚀 Professional Snapshot
+- 🔍 Offensive Security Engineer with 4+ years of tech expertise
+- 🐍 Python Scripter & Automation Maestro
+- 🌐 Specializing in Web, Mobile & API Security Penetration Testing
+- 🏆 Certified Mobile App Penetration Tester (eMAPT)
+- 📱 Mobile Security Expert (Android & iOS)
+- 🔐 API Security Specialist
 
+### 💡 Tech Arsenal
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios)
 
-[<img align="left" alt="AbrahamFranca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🛠️ Security & DevSecOps Toolchain
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat-square)
+![Acunetix](https://img.shields.io/badge/-Acunetix-4A90E2?style=flat-square)
+![MobSF](https://img.shields.io/badge/-MobSF-green?style=flat-square)
+![Snyk](https://img.shields.io/badge/-Snyk-4FC828?style=flat-square)
+![OWASP](https://img.shields.io/badge/-OWASP-blue?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
 
+### 🔬 Mobile & API Security Expertise
+- 📱 Advanced Mobile Application Security
+  - Android & iOS Penetration Testing
+  - Mobile Threat Modeling
+  - OWASP Mobile Security Guidelines (MASVS)
+- 🔗 API Security Mastery
+  - Comprehensive API Penetration Testing
+  - Authentication & Authorization Hardening
+  - API Vulnerability Assessment
 
+### 🔬 CyberSecurity Projects
+- 🦈[SHARKDROID](https://github.com/sharkzone-security/sharkdroid) - Open-source mobile pentesting toolkit that streamlines the process of setting up and testing Android applications.
+<!--- [File Integrity Monitoring (FIM)](https://github.com/Abraham2908/File-Integrity-Monitor) -->
+<!---- [Azure Sentinel (SIEM) Lab](https://github.com/Abraham2908/AzureSentinelLab) -->
 
-[linkedin]: https://linkedin.com/in/abraham-franca
+### 🌍 Languages & Communication
+- 🇧🇷 Portuguese: Native Speaker
+- 🇬🇧 English: Professional Working Proficiency (B2)
 
+## 🏆 Current Focus
+- Mobile & API Security Innovation
+- Advanced DevSecOps Integration and Automation
+- Open-Source Security Contributions
+- Threat Intelligence and Proactive Security Engineering
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abraham-franca)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahampedrog@gmail.com)
 
-Here are some ideas to get you started:
+> "Transforming potential security risks into opportunities for digital resilience" 🛡️✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Crafting secure digital experiences, one script at a time* 💻🔐
